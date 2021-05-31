@@ -7,6 +7,6 @@ Copyright (c) 2021 Antonia Golab
 
 ## Overview
 
-This project is was conducted within a the lecture _Open Source Enegy Modelling_at TU Wien. It was developed in a jupyter notebook using MESSAGEix. 
+This project is was conducted within a the lecture "Open Source Enegy Modelling"at TU Wien. It was developed in a jupyter notebook using MESSAGEix. 
 
 
